@@ -3,9 +3,7 @@ Hi, I am Asad Ali Asim
 <img src="./gifs//wave.gif" width="35">
 </h1>
 <b>  
-I am a Full-Stack Developer with more than three years of experience. I am capable of building scalable and productive next-generation
-solutions. I have the best experience in developing and scaling web-based applications and products in both the development and production
-phases.
+I am Full-stack developer with a strong focus on backend development. Expertise in crafting robust server-side solutions and scalable architectures. Passionate about building efficient and high-performance systems. Continuous learner exploring new technologies to enhance the full development stack.
 </b>
 
 <h2>🛠 <b>Languages and Tools</b></h2>
