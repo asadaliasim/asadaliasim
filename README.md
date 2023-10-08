@@ -3,7 +3,7 @@ Hi, I am Asad Ali Asim
 <img src="./gifs//wave.gif" width="35">
 </h1>
 <b>  
-I am Full-stack developer with a strong focus on backend development. Expertise in crafting robust server-side solutions and scalable architectures. Passionate about building efficient and high-performance systems. Continuous learner exploring new technologies to enhance the full development stack.
+I am a Full-stack developer with a strong focus on backend development. Expertise in crafting robust server-side solutions and scalable architectures. Passionate about building efficient and high-performance systems. Continuous learner exploring new technologies to enhance the full development stack.
 </b>
 
 <h2>🛠 <b>Languages and Tools</b></h2>
