@@ -11,12 +11,11 @@ phases.
 <h2>🛠 <b>Languages and Tools</b></h2>
 <div style="display:flex;gap:5px;">
   <img src="./icons/javascript.png" height='50px'>
-  
-  
-  <img src="./icons/react.png" height='50px'>
+  <img src="./icons/new-php-logo.svg" height='50px'>
   <img src="./icons/nodejs.svg" height='50px'>
   <img src="./icons/expressjs.svg"height='50px'>
   <img src="./icons/mongodb.svg" height='50px'>
+  <img src="./icons/mysql-official.svg" height='50px'>
   <img src="./icons/git.svg" height='50px'>
   <img src="./icons/terminal.png" height='50px'>
  
