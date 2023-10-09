@@ -31,7 +31,7 @@ I am a Full-stack developer with a strong focus on backend development. Expertis
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=asadaliasim&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dracula" height="200rem"/>
   </div>
   <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=asadaliasim&count_private=true&theme=react&border_radius=10" height="200rem"/>
+    <img src="https://streak-stats.demolab.com/?user=asadaliasim&count_private=true&theme=dracula&border_radius=10" height="200rem"/>
   </div>
 </div>
 <br />
