@@ -20,7 +20,7 @@ I am a Full-stack developer with a strong focus on backend development. Expertis
 </div>
 
 <h2>🛠 <b>Languages Frameworks & Tools </b></h2>
-<div style="display:flex;gap:5px align:center;">
+<div style="display:flex;gap:5px align-items:center;">
   <img src="./icons/javascript.png" height='50px'>
 
   <img src="./icons/new-php-logo.svg" height='50px'>
