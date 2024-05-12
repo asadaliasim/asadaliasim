@@ -2,7 +2,7 @@
 Hi, I am Asad Ali Asim
 <img src="./gifs/wave.gif" width="35">
 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rashidkarim11.rashidkarim11" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=asadaliasim.asadaliasim" />
 
 <b>  
 I am a Full-stack developer with a strong focus on backend development. Expertise in crafting robust server-side solutions and scalable architectures. Passionate about building efficient and high-performance systems. Continuous learner exploring new technologies to enhance the full development stack.
