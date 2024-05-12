@@ -20,7 +20,7 @@ I am a Full-stack developer with a strong focus on backend development. Expertis
 </div>
 
 <h2>🛠 <b>Languages Frameworks & Tools </b></h2>
-<div style="display:flex;gap:5px;">
+<div style="display:flex;gap:5px align:center;">
   <img src="./icons/javascript.png" height='50px'>
 
   <img src="./icons/new-php-logo.svg" height='50px'>
@@ -28,10 +28,8 @@ I am a Full-stack developer with a strong focus on backend development. Expertis
   <img src="./icons/expressjs.svg"height='50px'>
   <img src="./icons/mongodb.svg" height='50px'>
   <img src="./icons/mysql-official.svg" height='50px'>
-  <!-- <img src="./icons/git.svg" height='50px'> -->
   <img src="./icons/terminal.png" height='50px'>
-  <img src="./icons/vs.svg" height='50px'>
-   <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,flask,html,css,vscode,figma,git" />
+   <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git" />
   
 </div>
 <br />
