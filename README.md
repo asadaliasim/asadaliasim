@@ -14,22 +14,24 @@ I am a Full-stack developer with a strong focus on backend development. Expertis
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/asadaliasim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  
 </div>
 
-<h2>🛠 <b>Languages and Tools</b></h2>
+<h2>🛠 <b>Languages Frameworks & Tools </b></h2>
 <div style="display:flex;gap:5px;">
   <img src="./icons/javascript.png" height='50px'>
+
   <img src="./icons/new-php-logo.svg" height='50px'>
   <img src="./icons/nodejs.svg" height='50px'>
   <img src="./icons/expressjs.svg"height='50px'>
   <img src="./icons/mongodb.svg" height='50px'>
   <img src="./icons/mysql-official.svg" height='50px'>
-  <img src="./icons/git.svg" height='50px'>
+  <!-- <img src="./icons/git.svg" height='50px'> -->
   <img src="./icons/terminal.png" height='50px'>
- 
   <img src="./icons/vs.svg" height='50px'>
+   <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,flask,html,css,vscode,figma,git" />
   
 </div>
 <br />
